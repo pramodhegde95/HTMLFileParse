@@ -3,7 +3,6 @@
 2) To compile:  javac NLPOne.javac
 3) To Run the code:  java NLPOne CSfaculty.txt Output.txt
 
-The code is able to parse and put the results of 83 faculty details.
 
 
 
