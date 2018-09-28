@@ -1,0 +1,83 @@
+1 		Alagar, Sridhar		 Senior Lecturer		 sridhar@utdallas.edu		 4161
+2 		Arnold, Gordon		 Senior Lecturer		 arnold@utdallas.edu		 7518
+3 		Bastani, Farokh		 Professor		 bastani@utdallas.edu		 2299
+4 		Bereg, Sergey		 Associate Professor		 besp@utdallas.edu		 2364
+5 		Borazjany, Mehra		 Senior Lecturer		 Mehra@utdallas.edu		 2439
+6 		Cankaya, Ebru		 Senior Lecturer		 cankaya@utdallas.edu		 2018
+7 		Cardenas, Alvaro		 Assistant Professor		 cardenas@utdallas.edu		 4537
+8 		Chandrasekaran, R		 Professor		 chandra@utdallas.edu		 2032
+9 		Christiansen, Michael		 Senior Lecturer		 christiansen@utdallas.edu		 6906
+10 		Chung, Lawrence		 Associate Professor		 chung@utdallas.edu		 2178
+11 		Cobb, Jorge		 Associate Professor		 jcobb@utdallas.edu		 2479
+12 		Cole, John		 Senior Lecturer		 jxc064000@utdallas.edu		 6353
+13 		Daescu, Ovidiu		 Professor		 daescu@utdallas.edu		 4196
+14 		Davis, Chris		 Senior Lecturer		 chrisirwindavis@utdallas.edu		 3574
+15 		Dawande, Milind		 Smith Professor		 milind@utdallas.edu		 2793
+16 		Desmedt, Yvo		 Distinguished Professor		 Desmedt@utdallas.edu		 4536
+17 		Doore, Karen		 Senior Lecturer		 kdoore@utdallas.edu		 6328
+18 		Du, Ding		 Professor		 dzdu@utdallas.edu		 6615
+19 		Farage, Tim		 Senior Lecturer		 tfarage@utdallas.edu		 4836
+20 		Farago, Andras		 Professor		 farago@utdallas.edu		 6885
+21 		Feng, Ranran		 Senior Lecturer		 rrfeng@utdallas.edu		 4198
+22 		Fishwick, Paul		 Professor		 fishwick@utdallas.edu		 4389
+23 		Fox, Kyle		 Assistant Professor		 fox@utdallas.edu		 4168
+24 		Gogate, Vibhav		 Assosicate Professor		 gogate@utdallas.edu		 4245
+25 		Guo, Xiaohu		 Associate Professor		 xguo@utdallas.edu		 4723
+26 		Gupta, Gopal		 Professor		 gupta@utdallas.edu		 4107
+27 		Haas, Zygmunt		 Professor		 haas@utdallas.edu		 3571
+28 		Hao, Shuang		 Assistant Professor		 shao@utdallas.edu		 4164
+29 		Harabagiu, Sanda		 Professor		 sanda@utdallas.edu		 4654
+30 		Huynh, D		 Professor		 huynh@utdallas.edu		 2169
+31 		Jue, Jason		 Professor		 jjue@utdallas.edu		 4429
+32 		Kantarcioglu, Murat		 Professor		 muratk@utdallas.edu		 6616
+33 		Karrah, Shyam		 Lecturer and		 skarrah@utdallas.edu		 4197
+34 		Khan, Kamran		 Senior Lecturer		 kkhan@utdallas.edu		 3892
+35 		Khan, Latifur		 Professor		 lkhan@utdallas.edu		 4137
+36 		Kumar, Pushpa		 Senior Lecturer		 pkumar@utdallas.edu		 6904
+37 		Kunapuli, Gautam		 Associate Professor		 kunapuli@utdallas.edu		 4212
+38 		Le, Khiem		 Senior Lecturer		 kvl140030@utdallas.edu		 6217
+39 		Lin, Zhiqiang		 Adjunct Faculty		 lin@utdallas.edu		 4244
+40 		Liu, Cong		 Assistant Professor		 cong@utdallas.edu		 3572
+41 		Marcus, Andrian		 Professor		 axm141731@utdallas.edu		 4246
+42 		Mazidi, Karen		 Senior Lecturer		 mazidi@utdallas.edu		 3868
+43 		McMahan, Ryan		 Assistant Professor		 rymcmaha@utdallas.edu		 6610
+44 		McMahan, Timothy		 Senior Lecturer		 McMahan@utdallas.edu		 4162
+45 		Min, Richard		 Senior Lecturer		 min@utdallas.edu		 4522
+46 		Mittal, Neeraj		 Associate Professor		 neerajm@utdallas.edu		 2347
+47 		Moldovan, Dan		 Professor		 moldovan@utdallas.edu		 4838
+48 		Morales, Linda		 Senior Lecturer		 lmorales@utdallas.edu		 4200
+49 		Nguyen, Nhut		 Senior Lecturer		 nguyen@utdallas.edu		 4521
+50 		Nguyen, Tien		 Associate Professor		 nguyen@utdallas.edu		 3893
+51 		Ntafos, Simeon		 Professor		 ntafos@utdallas.edu		 2809
+52 		Ozbirn, Greg		 Senior Lecturer		 ozbirn@utdallas.edu		 4725
+53 		Page, Ivor		 Professor		 page@utdallas.edu		 2160
+54 		Paulk, Mark		 Senior Lecturer		 Paulk@utdallas.edu		 4839
+55 		Perkins, Stephen		 Senior Lecturer		 perkins@utdallas.edu		 3891
+56 		Prabhakaran, B		 Professor		 praba@utdallas.edu		 4680
+57 		Prakash, Ravi		 Professor		 ravip@utdallas.edu		 2289
+58 		Raghavachari, Balaji		 Professor		 rbk@utdallas.edu		 2136
+59 		Raichel, Benjamin		 Assistant Professor		 raichel@utdallas.edu		 4193
+60 		Razo, Miguel		 Senior Lecturer		 mrazo@utdallas.edu		 4240
+61 		Ruozzi, Nicholas		 Assistant Professor		 ruozzi@utdallas.edu		 4918
+62 		Sarac, Kamil		 Associate Professor		 ksarac@utdallas.edu		 2337
+63 		Schweitzer, Haim		 Associate Professor		 haim@utdallas.edu		 2238
+64 		Semper, Bill		 Senior Lecturer		 wjs130130@utdallas.edu		 4139
+65 		Shields, Charles		 Senior Lecturer		 cshields@utdallas.edu		 2050
+66 		Smith, Jason		 Senior Lecturer		 jws130830@utdallas.edu		 4835
+67 		Straach, Janell		 Senior Lecturer		 jstraach@utdallas.edu		 4688
+68 		Sudborough, I		 Founders Professor		 hal@utdallas.edu		 2184
+69 		Thuraisingham, Bhavani		 Distinguished Professor		 thuraisingham@utdallas.edu		 4738
+70 		Truemper, Klaus		 Professor Emeritus		 truemper@utdallas.edu		 2712
+71 		Veerasamy, Jeyakesavan		 Senior Lecturer		 jeyv@utdallas.edu		 4241
+72 		Venkatesan, S		 Professor		 venkatesan@utdallas.edu		 2452
+73 		Vogel, Don		 Senior Lecturer		 Vogel@utdallas.edu		 3551
+74 		Wei, Shiyi		 Assistant Professor		 swei@utdallas.edu		 4167
+75 		Willson, James		 Senior Lecturer		 jkw053000@utdallas.edu		 6035
+76 		Wong, W		 Professor		 ewong@utdallas.edu		 6619
+77 		Wu, Weili		 Professor		 weiliwu@utdallas.edu		 2194
+78 		Yen, I		 Professor		 ilyen@utdallas.edu		 6446
+79 		Yuruk, Nurcan		 Senior Lecturer		 nxy140530@utdallas.edu		 3575
+80 		Wenkstern, Rym		 Associate Professor		 rymw@utdallas.edu		 2091
+81 		Zhang, Kang		 Professor		 kzhang@utdallas.edu		 6351
+82 		Zhang, Lingming		 Assistant Professor		 lxz144130@utdallas.edu		 3573
+83 		Zheng, S		 Professor		 sizheng@utdallas.edu		 2329
